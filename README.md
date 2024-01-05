@@ -1,5 +1,6 @@
 # FIFA23 Player Analysis Project
 
+![image](https://imageio.forbes.com/specials-images/imageserve/63424d27fec9cfc1c8de06ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds)
 ## Overview
 
 This project utilizes Python and various data analysis libraries, including Pandas, Seaborn, Matplotlib, and NumPy, to conduct an Exploratory Data Analysis (EDA) on FIFA23 player data. The primary objectives of the analysis are to determine the best starting 11 players overall, categorized into 1 goalkeeper, 4 defenders, 3 midfielders, and 3 attackers. Additionally, the project aims to identify the best under-21 starting 11 players. The analysis also delves into the relationship between player wages and various attributes such as overall rating, potential rating, best position, national team affiliation, and player value.
